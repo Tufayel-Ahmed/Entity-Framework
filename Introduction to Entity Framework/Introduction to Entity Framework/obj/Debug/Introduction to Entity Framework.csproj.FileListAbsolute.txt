@@ -1,0 +1,15 @@
+G:\Github Repository\Entity-Framework\Introduction to Entity Framework\Introduction to Entity Framework\bin\Debug\Introduction to Entity Framework.exe.config
+G:\Github Repository\Entity-Framework\Introduction to Entity Framework\Introduction to Entity Framework\bin\Debug\Introduction to Entity Framework.exe
+G:\Github Repository\Entity-Framework\Introduction to Entity Framework\Introduction to Entity Framework\bin\Debug\Introduction to Entity Framework.pdb
+G:\Github Repository\Entity-Framework\Introduction to Entity Framework\Introduction to Entity Framework\bin\Debug\DocumentFormat.OpenXml.dll
+G:\Github Repository\Entity-Framework\Introduction to Entity Framework\Introduction to Entity Framework\bin\Debug\EntityFramework.dll
+G:\Github Repository\Entity-Framework\Introduction to Entity Framework\Introduction to Entity Framework\bin\Debug\EntityFramework.SqlServer.dll
+G:\Github Repository\Entity-Framework\Introduction to Entity Framework\Introduction to Entity Framework\bin\Debug\DocumentFormat.OpenXml.xml
+G:\Github Repository\Entity-Framework\Introduction to Entity Framework\Introduction to Entity Framework\bin\Debug\EntityFramework.xml
+G:\Github Repository\Entity-Framework\Introduction to Entity Framework\Introduction to Entity Framework\bin\Debug\EntityFramework.SqlServer.xml
+G:\Github Repository\Entity-Framework\Introduction to Entity Framework\Introduction to Entity Framework\obj\Debug\Introduction to Entity Framework.csproj.AssemblyReference.cache
+G:\Github Repository\Entity-Framework\Introduction to Entity Framework\Introduction to Entity Framework\obj\Debug\Introduction to Entity Framework.csproj.SuggestedBindingRedirects.cache
+G:\Github Repository\Entity-Framework\Introduction to Entity Framework\Introduction to Entity Framework\obj\Debug\Introduction to Entity Framework.csproj.CoreCompileInputs.cache
+G:\Github Repository\Entity-Framework\Introduction to Entity Framework\Introduction to Entity Framework\obj\Debug\Introduction to Entity Framework.csproj.CopyComplete
+G:\Github Repository\Entity-Framework\Introduction to Entity Framework\Introduction to Entity Framework\obj\Debug\Introduction to Entity Framework.exe
+G:\Github Repository\Entity-Framework\Introduction to Entity Framework\Introduction to Entity Framework\obj\Debug\Introduction to Entity Framework.pdb
